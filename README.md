@@ -1,2 +1,2 @@
-# CursoJavaRocketset
-Curso de Java pela Rocketset
+# CursoJavaRocketseat
+Curso de Java pela Rocketseat
